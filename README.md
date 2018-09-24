@@ -1,2 +1,0 @@
-# rizalsyafrudin
-openrepo
